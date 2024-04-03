@@ -257,8 +257,8 @@ def main():
 
     # Indian Food Image Classification
     st.markdown("---")
-    st.title("Indian Food Image Classification")
-    st.markdown("Upload an image to classify it into different Indian food categories.")
+    st.title("Food Image Classification")
+    st.markdown("Upload an image to classify it into different food categories.")
 
     uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
@@ -286,7 +286,7 @@ def main():
 
         # Food Recommendation Bot
     st.markdown("---")
-    st.title("Food Recommendation Bot")
+    st.title("Food Recommendation ")
     api_key = 'b8e473f0c34d4f858e1785a7bd4d1126'  # Replace with your actual API key
     user_input = st.text_input("Enter your food preference:")
     if st.button("Get Recommendations"):
