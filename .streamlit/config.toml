@@ -1,6 +1,3 @@
-[server]
-enableCORS = false
-enableXsrfProtection = true
 
 [server]
 headless = true
