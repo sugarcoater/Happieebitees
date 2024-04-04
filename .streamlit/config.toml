@@ -1,0 +1,5 @@
+primaryColor = "#FFC0CB"  # Pinkish color
+backgroundColor = "#FFFFFF"  # White background
+secondaryBackgroundColor = "#F0F2F6"  # Secondary background color
+textColor = "#262730"  # Text color
+font = "serif"  # Stylish font
