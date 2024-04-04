@@ -4,3 +4,10 @@ requests
 torch
 transformers
 Pillow
+gTTS
+numpy
+passlib
+Pillow
+PyAudio
+Requests
+SpeechRecognition
