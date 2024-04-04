@@ -1,12 +1,10 @@
 ﻿streamlit
 stripe
-requests
 torch
 transformers
 Pillow
 gTTS
 numpy
 passlib
-Pillow
 Requests
-SpeechRecognition
+pandas
