@@ -1,26 +1,9 @@
 
-[server]
+#[server]
 headless = true
 port = 8080
 enableCORS = false
 
-[runner]
+#[runner]
 command = "streamlit run main.py"
 
-[caching]
-enabled = true
-ttl = 3600
-
-[logger]
-level = "INFO"
-
-[client]
-caching = true
-heartbeatEnabled = true
-heartbeatRate = 60000
-heartbeatTimeout = 360000
-
-runOnSave = true
-showStackTrace = true
-gatherUsageStats = true
-globalLogLevel = "info"
