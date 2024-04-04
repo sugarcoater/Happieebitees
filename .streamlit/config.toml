@@ -1,9 +1,1 @@
 
-#[server]
-headless = true
-port = 8080
-enableCORS = false
-
-#[runner]
-command = "streamlit run main.py"
-
