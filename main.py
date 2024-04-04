@@ -6,6 +6,11 @@ import torch
 from transformers import AutoModelForImageClassification, AutoFeatureExtractor
 from food_bot import FoodRecommendationBot  # Assuming FoodRecommendationBot is a class defined in food_bot.py
 
+# Load configuration from config.toml
+st.set_option('server.enableCORS', st.config.get_option("server.enableCORS", False))
+st.set_option('server.enableXsrfProtection', st.config.get_option("server.enableXsrfProtection", True))
+
+
 # Set your Stripe keys
 stripe.api_key = "sk_test_51OzGXRSHTYMBDhE84BjlISnZpeBWZsW8AKsEv5mlRQKiVosCDXIkWZPmWXzafYmiTUo3hS33AN0VKfiocbxBcH1Q00g5m8CInA"
 publishable_key = "pk_test_51OzGXRSHTYMBDhE8O2MSh7NLKcTp7515CWgHAgYYx3jvtV0gNmn91BoJ3JqmLEMwTygD77DKz9e68xGsEQYkdv1w00bZDu9pwW"
