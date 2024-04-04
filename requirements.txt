@@ -8,6 +8,5 @@ gTTS
 numpy
 passlib
 Pillow
-PyAudio
 Requests
 SpeechRecognition
