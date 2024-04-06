@@ -23,15 +23,15 @@ Happieebitees is a Streamlit-based web application designed to bring the sweetne
 
 
 
-2. Navigate to the repository directory:
+2. **Navigate to the repository directory:**
 ```bash
 cd happieebitees
   
-3. Install required packages:
+3. **Install required packages:**
 ```bash
 pip install -r requirements.txt
 
-4. Run the Streamlit application:
+4. **Run the Streamlit application:**
 ```bash
 streamlit run app.py
 
