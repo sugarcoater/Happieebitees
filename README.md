@@ -33,9 +33,14 @@ Happieebitees is a Streamlit-based web application designed to bring the sweetne
     streamlit run app.py
 
 
-###How to Use
-Navigate: Use the sidebar to navigate through the application.
-Login/Signup: Access personalized dessert recommendations by logging in or signing up.
-Select Desserts: Browse through the dessert categories and select your favorites.
-Place an Order: Review your selection, choose a payment method, and place your order securely.
-Food Image Classification: Upload an image of food to classify it into one of the many Indian food categories.
+### How to Use
+
+**Navigate:** Use the sidebar to navigate through the application.
+
+**Login/Signup:** Access personalized dessert recommendations by logging in or signing up.
+
+**Select Desserts:** Browse through the dessert categories and select your favorites.
+
+**Place an Order:** Review your selection, choose a payment method, and place your order securely.
+
+**Food Image Classification:** Upload an image of food to classify it into one of the many Indian food categories.
