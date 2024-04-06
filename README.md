@@ -27,11 +27,11 @@ Happieebitees is a Streamlit-based web application designed to bring the sweetne
 ```bash
 cd happieebitees
   
-
+3. Install required packages:
 ```bash
 pip install -r requirements.txt
 
-
-
+4. Run the Streamlit application:
+```bash
 streamlit run app.py
 
