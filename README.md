@@ -22,10 +22,13 @@ Happieebitees is a Streamlit-based web application designed to bring the sweetne
    git clone https://github.com/sugarcoater/happieebitees.git
 
 
-   ```bash
-cd your-repository-directory
 
-   ```bash
+2. Navigate to the repository directory:
+```bash
+cd happieebitees
+  
+
+```bash
 pip install -r requirements.txt
 
 
