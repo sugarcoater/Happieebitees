@@ -19,19 +19,19 @@ Happieebitees is a Streamlit-based web application designed to bring the sweetne
 ### Setup and Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sugarcoater/happieebitees.git
+    git clone https://github.com/sugarcoater/happieebitees.git
 
 
 
 2. **Navigate to the repository directory:**
-```bash
+    ```bash
 cd happieebitees
   
 3. **Install required packages:**
-```bash
+    ```bash
 pip install -r requirements.txt
 
 4. **Run the Streamlit application:**
-```bash
+    ```bash
 streamlit run app.py
 
